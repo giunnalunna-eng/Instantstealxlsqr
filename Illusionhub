@@ -1,6 +1,3 @@
- Output   Browser Output
-
-                    
 -- This file was protected using Luraph Obfuscator v14.5.2 [https://lura.ph/]
 
 return({d2=function(Y,Y,X,A)(X)[A]=(A+Y);end,Ei=bit32.bxor,ui=string.unpack,K2=function(Y,Y,X,A)(A[0b100011])[Y+0X2]=(X);end,S2=function(Y,X,A,r)if r==0x6F then(X)[0x27]=(function()return Y:b(X);end);X[0x28]=Y.F;if not A[7743]then r=(-969754049+(Y.Li((Y.li(A[0X3C_eD__]-Y.S[6]
